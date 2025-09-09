@@ -1,3 +1,16 @@
+
+
+<img width="1824" height="980" alt="Screenshot from 2025-09-09 18-21-29" src="https://github.com/user-attachments/assets/4a208e46-be00-4fa6-a9f0-fe905db78dee" />
+
+
+<img width="1824" height="980" alt="Screenshot from 2025-09-09 18-21-42" src="https://github.com/user-attachments/assets/6316597b-721c-4ac5-9988-1eb44da37736" />
+
+
+
+
+
+
+
 # Welcome to  project
 
 ## Project info
